@@ -1,0 +1,10 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+target/
+bin/
+.classpath
+.project
+.settings/
+*.class
